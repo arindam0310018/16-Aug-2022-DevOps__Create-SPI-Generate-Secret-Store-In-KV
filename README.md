@@ -4,6 +4,14 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 In this Session, I will demonstrate __how to Create Service Principal and Store Secret in Key Vault Using Azure DevOps.__
 
+| __IN-PERSON SESSION:-__ |
+| --------- |
+| I presented this Demo as a part of __AZURE DEVOPS: TAKEAWAYS BEST PRACTISES AND LIVE DEMOS__ In-Person Speaker Session in __MICROSOFT AZURE BERN USER GROUP__ Forum/Platform. |
+| __Event Meetup Announcement:-__ |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cpz6voitr8v43psbgsii.jpg) |
+| __Moment Captured with Founders of MICROSOFT AZURE BERN USER GROUP "STEFAN JOHNER", "STEFAN ROTH", "PAUL AFFENTRANGER" and Co-organizer "DAMIEN BOWDEN":-__ |
+| ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jxz1bp0dw976e7s3j3c0.JPG) |
+
 
 | __USE CASE:-__ |
 | --------- |
