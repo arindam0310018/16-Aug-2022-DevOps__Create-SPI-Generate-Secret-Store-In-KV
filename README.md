@@ -4,13 +4,13 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 In this Session, I will demonstrate __how to Create Service Principal and Store Secret in Key Vault Using Azure DevOps.__
 
-| __LIVE RECORDED SESSION:-__ |
-| --------- |
-| __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD 9.0__ Forum/Platform |
-| Duration of My Demo = __55 Mins 42 Secs__ |
+I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
 
-| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EGIOzEpOxzE/0.jpg)](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
-| --------- |
+| __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
+| --------- | --------- |
+| __Microsoft Azure Bern User Group__ | __In Person__ |
+| __Journey to the Cloud 9.0__ | __Virtual__ |
+
 
 | __IN-PERSON SESSION:-__ |
 | --------- |
@@ -19,6 +19,10 @@ In this Session, I will demonstrate __how to Create Service Principal and Store 
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cpz6voitr8v43psbgsii.jpg) |
 | __Moment Captured with Founders of MICROSOFT AZURE BERN USER GROUP "STEFAN JOHNER", "STEFAN ROTH", "PAUL AFFENTRANGER" and Co-organizer "DAMIEN BOWDEN":-__ |
 | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jxz1bp0dw976e7s3j3c0.JPG) |
+| __VIRTUAL SESSION:-__ |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD 9.0__ Forum/Platform |
+| Duration of My Demo = __55 Mins 42 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EGIOzEpOxzE/0.jpg)](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
 
 
 | __USE CASE:-__ |
