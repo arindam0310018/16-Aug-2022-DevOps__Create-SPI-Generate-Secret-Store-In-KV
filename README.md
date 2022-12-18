@@ -4,12 +4,13 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 In this Session, I will demonstrate __how to Create Service Principal and Store Secret in Key Vault Using Azure DevOps.__
 
-I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
+I had the Privilege to talk on this topic in __THREE__ Azure Communities:-
 
 | __NAME OF THE AZURE COMMUNITY__ | __TYPE OF SPEAKER SESSION__ |
 | --------- | --------- |
 | __Microsoft Azure Bern User Group__ | __In Person__ |
 | __Journey to the Cloud 9.0__ | __Virtual__ |
+| __Festive Tech Calendar 2022__ | __Virtual__ |
 
 
 | __IN-PERSON SESSION:-__ |
@@ -23,6 +24,9 @@ I had the Privilege to talk on this topic in __TWO__ Azure Communities:-
 | __LIVE DEMO__ was Recorded as part of my Presentation in __JOURNEY TO THE CLOUD 9.0__ Forum/Platform |
 | Duration of My Demo = __55 Mins 42 Secs__ |
 | [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EGIOzEpOxzE/0.jpg)](https://www.youtube.com/watch?v=EGIOzEpOxzE) |
+| __LIVE DEMO__ was Recorded as part of my Presentation in __FESTIVE TECH CALENDAR 2022__ Forum/Platform |
+| Duration of My Demo = __1 Hour 05 Mins 08 Secs__ |
+| [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pcIVKO2dlEI/0.jpg)](https://www.youtube.com/watch?v=pcIVKO2dlEI&t=80s) |
 
 
 | __USE CASE:-__ |
